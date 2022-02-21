@@ -1,4 +1,4 @@
-### Hi there 👋
+### ## Olá eu sou a Michak Canive, criador de conteúdo de programação e tecnologia!👋
 
 <div align="center">
   <a href="https://github.com/michackcanive">
