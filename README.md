@@ -1,4 +1,7 @@
-## Olá eu sou a Michak Canive: Programador , criador de conteúdo de programação e tecnologia!👋
+# Hey 👋
+My name is 😊 Michack Canive, I´m from Angola 🇦🇴 I´m A Computer Engineer, that has been working as Full Stack developer since 2017.
+
+I´m passionate about solving problems and learning. Always ope to new challenges and ready to face changes.
 
 <div align="center">
   <a href="https://github.com/michackcanive">
@@ -26,7 +29,7 @@
   <a href = "mailto:michakcanive@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michak-canive-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/michackcanive/michackcanive/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 </div>
