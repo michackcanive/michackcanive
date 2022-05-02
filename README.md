@@ -1,5 +1,5 @@
 # Hey 👋
-My name is 😊 Michack Canive, I´m from Angola 🇦🇴 I'm a Computer Engineer, working as a Full Stack developer and programming content creator since 2019.
+My name is 😊 Michack Canive, I´m from Angola 🇦🇴 I'm a Computer Engineer, working as a Full Stack developer and programming .
 
 I´m passionate about solving problems and learning. Always ope to new challenges and ready to face changes.
   #### "" Technologies & Contributions ---""
