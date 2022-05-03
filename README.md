@@ -2,7 +2,7 @@
 My name is 😊 Michack Canive, I´m from Angola 🇦🇴 I'm a Computer Engineer, working as a Full Stack developer and programming .
 
 I´m passionate about solving problems and learning. Always ope to new challenges and ready to face changes.
-  #### "" Technologies & Contributions ---""
+  #### "" Technologies & Contributions""
 <div align="center">
 
   <a href="https://github.com/michackcanive">
@@ -23,7 +23,6 @@ I´m passionate about solving problems and learning. Always ope to new challenge
   
 </div>
     ##
- 
 <div> 
   <a href="https://	angola-dev.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
